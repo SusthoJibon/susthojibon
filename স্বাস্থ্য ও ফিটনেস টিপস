@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>স্বাস্থ্য ও ফিটনেস টিপস</title>
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 0 15px;
+        background: #f5f9fc;
+        color: #333;
+    }
+    header {
+        background: #2e8b57;
+        color: white;
+        padding: 15px;
+        border-radius: 8px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    header h1 {
+        margin: 0;
+        font-size: 2rem;
+    }
+    article {
+        background: white;
+        border-radius: 8px;
+        padding: 20px;
+        margin-bottom: 25px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    article h2 {
+        color: #2e8b57;
+    }
+    footer {
+        text-align: center;
+        color: #777;
+        font-size: 0.9rem;
+        margin-top: 40px;
+        padding-bottom: 20px;
+    }
+    a {
+        color: #2e8b57;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+</style>
+</head>
+<body>
+
+<header>
+    <h1>স্বাস্থ্য ও ফিটনেস টিপস</h1>
+</header>
+
+<article>
+    <h2>সুস্থ থাকার জন্য ৫টি সহজ নিয়ম</h2>
+    <p>সুস্থ থাকার জন্য দৈনন্দিন জীবনযাত্রায় কিছু সাধারণ নিয়ম মেনে চলা জরুরি। নিচে কয়েকটি সহজ কিন্তু কার্যকর টিপস দেওয়া হলো:</p>
+    <ul>
+        <li>প্রতিদিন অন্তত ৮ ঘণ্টা ঘুমানো</li>
+        <li>পর্যাপ্ত পানি পান করা</li>
+        <li>সুষম খাদ্য গ্রহণ করা</li>
+        <li>নিয়মিত ব্যায়াম করা</li>
+        <li>মানসিক চাপ থেকে মুক্ত থাকা</li>
+    </ul>
+</article>
+
+<article>
+    <h2>প্রতিদিনের ব্যায়ামের গুরুত্ব</h2>
+    <p>ব্যায়াম শুধু ওজন কমানোর জন্য নয়, এটি হৃদরোগ, ডায়াবেটিস, মানসিক চাপ কমানোসহ শরীর ও মনের সুস্থতার জন্য অপরিহার্য। প্রতিদিন কমপক্ষে ৩০ মিনিট হাঁটা বা অন্য কোনো হালকা ব্যায়াম করার পরামর্শ দেয়া হয়।</p>
+</article>
+
+<article>
+    <h2>ফিটনেস বজায় রাখার সহজ ডায়েট প্ল্যান</h2>
+    <p>একজন সুস্থ ব্যক্তির জন্য সুষম ডায়েট খুব জরুরি। এতে থাকা উচিত:</p>
+    <ul>
+        <li>প্রচুর শাক-সবজি ও ফল</li>
+        <li>পরিমিত প্রোটিন, যেমন: ডাল, মুরগি, মাছ</li>
+        <li>কম চর্বিযুক্ত খাবার</li>
+        <li>পর্যাপ্ত কার্বোহাইড্রেট</li>
+        <li>জাঙ্ক ফুড এড়িয়ে চলা</li>
+    </ul>
+</article>
+
+<footer>
+    <p>© ২০২৫ স্বাস্থ্য ও ফিটনেস টিপস | তৈরি করেছেন সাঈম আহাম্মেদ</p>
+</footer>
+
+</body>
+</html>
